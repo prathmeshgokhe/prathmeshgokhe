@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
+</div>
+
 # Hey!! Great to see you here! 👋
 
 - 📖 Pursuing my Bachelor's in Artificial Intelligence from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/).
