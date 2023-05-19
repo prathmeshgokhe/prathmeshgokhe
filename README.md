@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
-</div>
+</div> -->
 
 # Hey!! Great to see you here! 👋
 
@@ -65,6 +65,17 @@ Hey there, folks! I'm Prathmesh Gokhe, a tech-savvy enthusiast who eats, breathe
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## 📈 Stats
+
+---
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-streak-stats.herokuapp.com?user=prathmeshgokhe&layout=compact&theme=radical" />
+	
+</p>
 
 ---
 
