@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
 </div> -->
 
-# Hey!! Great to see you here! 👋
+# Hey Folks!! Great to see you here! 👋
 
 - 📖 Pursuing my Bachelor's in Artificial Intelligence from [GH Raisoni College of Engineering Nagpur](https://ghrce.raisoni.net/).
 
-- 🧑🏻‍💻 Frontend react developer, UI/UX Designer.
+- 🧑🏻‍💻 Frontend developer, UI/UX Designer.
 
-- 💡 Always open to collaborating on projects and innovative ideas.
+- 🌱 I’m currently learning React
+
+- 💡 Always ready to learn something new.
 
 Hey there, folks! I'm Prathmesh Gokhe, a tech-savvy enthusiast who eats, breathes, and lives programming. I'm the wizard of web development and an ultimate UI/UX ninja who can create eye-catching designs that will make you go WOW!, feel free to connect with me here:
 
