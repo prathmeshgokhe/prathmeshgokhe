@@ -49,7 +49,8 @@ Hey there, folks! I'm Prathmesh Gokhe, a tech-savvy enthusiast who eats, breathe
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![ShadCN](My Computer/Downloads/shad.png)
+<img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" width="35" alt="shadcn"/>
+<img src="https://nextui.org/_next/image?url=%2Fnextui-banner.png&w=1920&q=100" width="60" alt="nextui"/>
 
 ### 🧩 Libraries & Framework
 
